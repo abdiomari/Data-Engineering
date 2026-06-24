@@ -5,6 +5,7 @@ jspm_packages/
 env/
 venv/
 .venv/
+.env/
 
 # Build outputs
 dist/
